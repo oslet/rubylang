@@ -1,0 +1,10 @@
+puts 'hello \n world';
+puts "hello \n world";
+puts 'it is\sOK';
+puts "it is\sOK";
+puts '\141'+"  "+"\141";
+puts '\x52'+"  "+"\x52";
+puts '\v'+"  "+"\v";
+a="Ruby";
+puts "I love #{a}";
+puts 'I love #{a}';
